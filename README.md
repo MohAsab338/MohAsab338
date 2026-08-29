@@ -24,7 +24,7 @@ I am currently pursuing my Bachelor of Computer Applications (BCA) and building 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohAsab338&show_icons=true&theme=radical&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohAsab338&layout=compact&theme=radical" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohAsab338&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
