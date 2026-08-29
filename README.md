@@ -21,14 +21,6 @@ I am currently pursuing my Bachelor of Computer Applications (BCA) and building 
 
 ---
 
-### 📈 Profile Overview
-
-![Mohammad Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohAsab338&show_icons=true&theme=radical&include_all_commits=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohAsab338&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with Me
 
 * 💼 **LinkedIn:** [Mohammad Asad](https://www.linkedin.com/in/mohammad-asab-227a65429?utm_source=share_via&utm_content=profile&utm_medium=member_android)
