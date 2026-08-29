@@ -23,7 +23,8 @@ I am currently pursuing my Bachelor of Computer Applications (BCA) and building 
 
 ### 🌐 Connect with Me
 
-* **LinkedIn:** [Mohammad Asab] https://www.linkedin.com/in/mohammad-asab-227a65429?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+* 💼 **LinkedIn:** [Mohammad Asad](https://www.linkedin.com/in/mohammad-asad-227a65429) 🔗
+
 * **Instagram:** [@asadmlyk_1](https://www.instagram.com/asadmlyk_1)
 * **Email:** [asabmoh338@gmail.com](mailto:asabmoh338@gmail.com)
 
