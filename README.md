@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Asad 👋 
 
-<!--
-**MohAsab338/MohAsab338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Web Developer | BCA Student**
 
-Here are some ideas to get you started:
+I am currently pursuing my Bachelor of Computer Applications (BCA) and building a strong foundation in modern web development. My goal is to become a full-stack web developer, crafting efficient, scalable, and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Interests
+
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Learning & Exploring:** React.js, Node.js, Web Technologies
+* **Current Focus:** Building responsive web apps & mastering JavaScript fundamentals
+
+---
+
+### 📊 GitHub Stats
+
+![Asab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohasab338&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohasab338&layout=compact&theme=radial)
+
+---
+
+### 🌐 Connect with Me
+
+* **LinkedIn:** [Mohammad Asab](https://www.linkedin.com/in/mohammad-asab)
+* **Instagram:** [@asadmlyk_1](https://www.instagram.com/asadmlyk_1)
+* **Email:** [asabmoh338@gmail.com](mailto:asabmoh338@gmail.com)
+
+---
+
+⭐️ *Always open to collaborations and
