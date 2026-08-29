@@ -16,8 +16,20 @@ I am currently pursuing my Bachelor of Computer Applications (BCA) and building 
 
 ### 📊 GitHub Stats
 
-![Asab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohasab338&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohasab338&layout=compact&theme=radial)
+### 📊 My GitHub Stats 📈
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohAsab338&show_icons=true&theme=radial&hide_border=true" alt="Asad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohAsab338&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohAsab338&theme=radial&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
