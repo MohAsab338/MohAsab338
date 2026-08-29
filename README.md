@@ -1,8 +1,17 @@
-# Hi there, I'm Mohammad Asad 👋 
+# Hi there, I'm Mohammad Asad 👋
 
 🚀 **Aspiring Web Developer || BCA Student**
 
-I am currently pursuing my Bachelor of Computer Applications (BCA) and building a strong foundation in modern web development. My goal is to become a full-stack web developer, crafting efficient, scalable, and user-friendly applications.
+I am currently pursuing my Bachelor of Computer Applications (BCA) and building a strong foundation in modern web development. My goal is to become a Full-Stack Web Developer, crafting efficient, scalable, and user-friendly applications.
+
+---
+
+### 💻 Tech Stack & Interests
+
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Learning & Exploring:** React.js, Node.js, Web Technologies
+* **Current Focus:** Building responsive web apps & mastering JavaScript fundamentals
+
 
 ---
 
