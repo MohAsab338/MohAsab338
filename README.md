@@ -18,7 +18,6 @@ I am currently pursuing my Bachelor of Computer Applications (BCA) and building 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-F05032?style=for-the-badge&logo=CSS&logoColor=white)
 
 ---
 
